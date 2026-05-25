@@ -211,3 +211,8 @@ test-screenshots/
 # (``.ign.testing.lock``), and any future ``.ign*`` variant.
 .ign*
 **/.ign*
+
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
